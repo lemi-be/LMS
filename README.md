@@ -33,11 +33,7 @@ This project is for educational purposes and may not be actively maintained. How
 
 ## License
 
-[Specify the license under which your project is distributed. For example, you can use MIT, Apache, GPL, etc.]
-
-## Contact
-
-For any inquiries or questions, please contact [your email or contact details].
+This project is licensed under the GNU General Public License (GPL). You can find more details in the LICENSE file.
 
 ## Acknowledgments
 
